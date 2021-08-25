@@ -15,7 +15,7 @@
         <disclaimer lang="en_GB">This is not official addon</disclaimer>
         <disclaimer lang="ru_RU">Это не оффициальный аддон</disclaimer>
         <language>ru en</language>
-        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <license>GNU General Public License v2.0 only</license>
         <source>https://github.com/Nemiroff/plugin.audio.radiorecord</source>
         <platform>all</platform>
         <website>www.radiorecord.ru</website>
